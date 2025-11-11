@@ -22,5 +22,9 @@ numpy
 pdf2image
 pypdf
 pyyaml
-openai
+PyMuPDF
+easyocr
+yake
+langcodes
+python-dateutil
 xlsxwriter
